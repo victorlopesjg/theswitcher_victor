@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TheSwitcher_Victor</string>
+    <string name="text_detail">Your %s light is</string>
+</resources>
